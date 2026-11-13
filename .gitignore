@@ -1,0 +1,22 @@
+# Local operation records and remembered paths
+*.log
+last.ini
+*-last.ini
+
+# Build outputs and IDE files
+/dist/
+/bin/
+/obj/
+/.vs/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
+.DS_Store
